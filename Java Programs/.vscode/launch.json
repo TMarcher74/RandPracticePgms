@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RSA",
+            "request": "launch",
+            "mainClass": "RSA",
+            "projectName": "Java_8d3ed2f1"
+        },
+        {
+            "type": "java",
+            "name": "BellFord",
+            "request": "launch",
+            "mainClass": "BellFord",
+            "projectName": "Java_8d3ed2f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentScore",
+            "request": "launch",
+            "mainClass": "StudentScore",
+            "projectName": "Java_8d3ed2f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java_8d3ed2f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BankDetails",
+            "request": "launch",
+            "mainClass": "BankDetails",
+            "projectName": "Java_8d3ed2f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch EmployeeDetails",
+            "request": "launch",
+            "mainClass": "EmployeeDetails",
+            "projectName": "Java_8d3ed2f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExamResults",
+            "request": "launch",
+            "mainClass": "ExamResults",
+            "projectName": "Java_8d3ed2f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch GetBookDetails",
+            "request": "launch",
+            "mainClass": "GetBookDetails",
+            "projectName": "Java_8d3ed2f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "Java_8d3ed2f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackImplementation",
+            "request": "launch",
+            "mainClass": "StackImplementation",
+            "projectName": "Java_8d3ed2f1"
+        }
+    ]
+}
